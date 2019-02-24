@@ -4,7 +4,7 @@ body {
     color: #777;
     font-size: 18px;
     text-align: center;
-    width: 70%;
+    width: 960px;
     margin: auto;
 }
 
@@ -21,32 +21,38 @@ nav {
     margin-bottom: 20px;
 }
 
-#aside {
-}
 
 aside {
     background-color: #ebebeb;
-    width: 40%;
+    width: 425px;
     float: right;
-    height: 130px;
+    height: 250px;
 }
 
-.section {
-    width: 390px;
+
+.parent {
+    width: 51%;
     float: left;
-    border: 20px;
-    margin: 10px;
+    border: 6px solid #ebebeb;
+    height: 240px;
+    margin-bottom: 20px;
 }
 
 section {
     background-color: #ebebeb;
-    width: 33%;
-    box-align: center;
+    width: 495px;
+    height: 100px;
 }
+
 
 article {
     background-color:#777;
     color: #ebebeb;
+    height: 50px;
+    width: 475px;
+    margin: 0;  
+    margin-left: 10px;
+    position: relative;  
 }
 
 
