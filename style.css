@@ -10,7 +10,7 @@ body {
 
 header {
     background-color: #ebebeb;
-    padding: 20px;
+    padding: 10px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
@@ -26,7 +26,7 @@ aside {
     background-color: #ebebeb;
     width: 44%;
     float: right;
-    height: 287px;
+    height: 311px;
 }
 
 
@@ -37,6 +37,9 @@ section {
     padding: 10px;
 }
 
+.article {
+    background-color: #777;
+}
 
 article {
     background-color:#777;
