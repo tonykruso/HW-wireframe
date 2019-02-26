@@ -24,35 +24,26 @@ nav {
 
 aside {
     background-color: #ebebeb;
-    width: 425px;
+    width: 44%;
     float: right;
-    height: 250px;
+    height: 287px;
 }
 
 
-.parent {
-    width: 51%;
-    float: left;
-    border: 6px solid #ebebeb;
-    height: 240px;
-    margin-bottom: 20px;
-}
 
 section {
     background-color: #ebebeb;
     width: 495px;
-    height: 100px;
+    padding: 10px;
 }
 
 
 article {
     background-color:#777;
     color: #ebebeb;
-    height: 50px;
-    width: 475px;
     margin: 0;  
-    margin-left: 10px;
     position: relative;  
+    padding: 12px;
 }
 
 
@@ -60,12 +51,14 @@ h1 {
     color:#777;
     background: #ebebeb;
     margin: 10px;
+    padding: 10px;
 }
 
 p {
     color:#777;
     background: #ebebeb;
     margin: 10px;
+    padding: 10px;
 }
 
 footer {
